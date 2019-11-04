@@ -20,7 +20,7 @@ public class Shapes {
 			try{
 				switch (shape.toUpperCase()) {
 					
-					case "C":
+				    case "C":
 				    case "CIRCLE":
 						do{
 							System.out.print("Please enter VALID radius of a circle: ");
