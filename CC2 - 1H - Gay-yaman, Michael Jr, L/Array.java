@@ -1,11 +1,6 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-
-
-
-
-
 public class Array{
 	public static void main(String[] args){
 		
@@ -64,17 +59,5 @@ public class Array{
 			
 		}while(yes == 'Y' || yes == 'y');
 		
-		
-		
-		
-		
-		
-		
-	
-		
-
-		
-		
-	
 	}	
 }
