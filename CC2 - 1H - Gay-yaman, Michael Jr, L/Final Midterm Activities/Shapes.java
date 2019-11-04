@@ -4,12 +4,12 @@ import java.text.DecimalFormat;
 public class Shapes {
     public static void main(String[] args) {
 
-		DecimalFormat df = new DecimalFormat("0.00");
+	    DecimalFormat df = new DecimalFormat("0.00");
 	    Scanner scan = new Scanner (System.in);
 	
 	    double pi = Math.PI, radius, length, width, height, base, totalArea;
 	    String shape;
-		char yes;
+	    char yes;
 		
 		do{	
 			System.out.print("\nShapes Available in the System are:\n  - Circle\n  - Square\n  - Rectangle\n  - Triangle");
